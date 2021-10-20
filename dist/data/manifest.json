@@ -8,7 +8,10 @@
             "raw": "https:\/\/raw.githubusercontent.com\/LouisOuellet\/"
         }
     },
+    "table": [
+        "sales_genie"
+    ],
     "name": "sales_genie",
-    "build": 13,
+    "build": 14,
     "version": "21.10-dev"
 }
